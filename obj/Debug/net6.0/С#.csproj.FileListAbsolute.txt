@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DOG\bin\Debug\net6.0\С#.exe
+C:\Users\User\Desktop\DOG\bin\Debug\net6.0\С#.deps.json
+C:\Users\User\Desktop\DOG\bin\Debug\net6.0\С#.runtimeconfig.json
+C:\Users\User\Desktop\DOG\bin\Debug\net6.0\С#.dll
+C:\Users\User\Desktop\DOG\bin\Debug\net6.0\С#.pdb
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\С#.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\С#.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\С#.AssemblyInfo.cs
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\С#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\С#.dll
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\refint\С#.dll
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\С#.pdb
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\С#.genruntimeconfig.cache
+C:\Users\User\Desktop\DOG\obj\Debug\net6.0\ref\С#.dll
